@@ -1,4 +1,3 @@
-Here’s all the content you asked for, neatly compiled into **one place**:
 
 ---
 
@@ -142,4 +141,3 @@ Let’s build some powerful predictors!
 
 --- 
 
-Let me know if you want this exported as a file (PDF, Markdown, etc.) or styled differently!
